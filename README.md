@@ -1,49 +1,26 @@
-I'm a multidisciplinary engineer focused on models: how to build them,
-interrogate them, and turn them into systems people can act on.
+# Hi, I'm Abhiraj.
 
-My background spans electronics engineering and cognitive science, connected by
-software, statistics, and machine learning. It taught me to move between
-mechanisms and behavior, and to question what a model represents, where it fails,
-and whether its output is reliable enough to support a decision.
+I build systems that turn **messy evidence into decisions** — without losing the path from evidence to answer.
 
-## Now
+These days, that means making agentic analysis of unstructured data more reliable, controllable, and inspectable at **Microsoft**.
 
-At **Microsoft**, I work on making agentic qualitative analysis of unstructured
-data more reliable and controllable: workflows that can be rerun, outputs that
-remain traceable to their sources, and analyses that can be inspected rather than
-merely accepted.
+Before that, I worked on:
 
-## The path here
+* **Cloud capacity planning** — models and simulation for global infrastructure decisions
+* **Mechanical reliability** — explainable failure prediction and domain-specific language models
+* **Pharma research** — ontologies and knowledge systems for messy scientific information
 
-**Azure capacity planning · Prescriptive models and simulation**
+The domains keep changing. The problem mostly doesn't:
 
-Built models and simulation engines for global cloud capacity, balancing
-inventory and GPU/data-center rollout lead times against forecast demand.
+> How do you turn ambiguous, incomplete evidence into something useful without hiding how you got there?
 
-**PACCAR · Reliability and explainability**
+I tend to care about:
 
-Built explainable models for predicting mechanical failures. In 2019, before
-language models became synonymous with AI, I also built small, domain-specific
-language models that translated field-engineering shorthand into normalized
-failure modes and connected field evidence back into the FMEA process.
-Explainability was part of the model, not a reporting layer added later.
+* agents that can be inspected, not just trusted
+* evals that explain failure, not just score output
+* abstractions that make fuzzy workflows programmable
+* models whose assumptions and provenance survive contact with reality
 
-**Innoplexus / Partex · Knowledge representation**
+Outside work, I build things mostly because they annoy me enough not to exist yet — including a wireless split keyboard, its firmware, a [shortcut overlay](https://github.com/abhirajD/kbd_layout_overlay), and occasionally do 3D modeling, simulations and make interesting+practical shapes/furniture from wood.
 
-Built ontologies and information architecture for pharmaceutical research,
-including [Asset42](https://asset42.partex.ai/) and
-[Meta-D3](https://metad3.partex.ai/).
-
-The domains have changed, but the problem keeps rhyming: turn messy evidence into
-models people can act on without losing the path from evidence to answer.
-
-## Outside work
-
-- Built a wireless split keyboard, its
-  [firmware](https://github.com/abhirajD/NTQWERTYFirmware), and a
-  [cross-platform shortcut overlay](https://github.com/abhirajD/kbd_layout_overlay).
-- Use simulation and rendering to design furniture and unusual shapes from that
-  surprisingly scarce material: wood.
-
-[LinkedIn](https://www.linkedin.com/in/abhiraj-darshankar) ·
-[Email](mailto:abhiraj.darshankar@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abhiraj-darshankar) · [Email](mailto:abhiraj.darshankar@gmail.com)
